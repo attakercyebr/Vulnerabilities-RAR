@@ -1,4 +1,17 @@
-Introduction
+# ![Locations](https://github.com/M4nifest0/M4nifest0_WhatsApp/blob/master/s.png) 
+
+##### Program Features
+----------------------
+📌 Hide malware
+📌 Vulnerability software vulnerabilities RAR
+📌 Creating malware
+📌 Access client files
+📌  Client Hacking
+
+
+
+##### Introduction
+----------------------
 In this article, we tell the story of how we found a logical bug using the WinAFL fuzzer and exploited it in WinRAR to gain full control over a victim’s computer. The exploit works by just extracting an archive, and puts over 500 million users at risk. This vulnerability has existed for over 19 years(!) and forced WinRAR to completely drop support for the vulnerable format.
 
 Background
@@ -95,7 +108,6 @@ After patching all the structure checks, such as the CRC validation, we once aga
 
 The Fuzzing Machine
 To increase the fuzzer performance and to prevent an I\O bottleneck, we used a RAM disk drive that uses the ImDisk toolkit on the fuzzing machine.
-
 
 
 # See how it work 
