@@ -24,7 +24,7 @@
 
 # See how it work 
 ----------------------
-- 🤡  
+- 🤡  https://t.me/M4nifest0/630
 
 # Visit the following channels and sites for more training and tools:
 ----------------------
