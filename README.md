@@ -96,3 +96,31 @@ After patching all the structure checks, such as the CRC validation, we once aga
 The Fuzzing Machine
 To increase the fuzzer performance and to prevent an I\O bottleneck, we used a RAM disk drive that uses the ImDisk toolkit on the fuzzing machine.
 
+
+
+# See how it work 
+----------------------
+- 🤡  
+
+# Visit the following channels and sites for more training and tools:
+----------------------
+- 🔞 https://m4nifest0.com
+- 🔞 https://m4nifest0.group
+- 🔞 https://m4nifest0.shop
+- 🔞 https://t.me/M4nifest0
+
+----------------------
+
+<h2>
+<p align="center">	
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://t.me/M4nifest0">
+		<img src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://twitter.com/_M4nifest0_">
+		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://m4nifest0.com">
+		<img src="https://img.shields.io/badge/WebSite-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
