@@ -2,11 +2,11 @@
 
 ##### Program Features
 ----------------------
-📌 Hide malware
-📌 Vulnerability software vulnerabilities RAR
-📌 Creating malware
-📌 Access client files
-📌  Client Hacking
+- 📌 Hide malware
+- 📌 Vulnerability software vulnerabilities RAR
+- 📌 Creating malware
+- 📌 Access client files
+- 📌 Client Hacking
 
 
 
